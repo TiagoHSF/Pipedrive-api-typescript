@@ -1,0 +1,21 @@
+{
+  "name": "consumir-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "typescript": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "@types/node-fetch": "^2.6.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
